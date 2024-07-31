@@ -71,4 +71,4 @@ If you wish to contribute, please fork the repository, create a feature branch, 
 For any questions regarding the project, feel free to contact me:
 
 Email: ahmedberaekimci@gmail.com
-LinkedIn: linkedin.com/in/ahmed-bera-ekimci
+LinkedIn: https://www.linkedin.com/in/ahmed-bera-ekimci
